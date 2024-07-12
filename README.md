@@ -1,3 +1,8 @@
+<img src="https://media.giphy.com/media/yIomjPheQvvbiF9v7A/giphy.gif" width=300 align='left'>
+<br><br><br>
+<img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width=300 align="right">
+
+
 <h1 align="center">Hi 👋, I'm Debarati Karmakar</h1>
 <h3 align="center">A passionate frontend developer & UI/UX designer from India</h3>
 
