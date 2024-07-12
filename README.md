@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Debarati Karmakar</h1>
 <h3 align="center">A passionate frontend developer & UI/UX designer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debaratikarmakar" alt="DK" /></a> </p>
+/*<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debaratikarmakar" alt="DK" /></a> </p>*/
 
 <img align="right" alt="coding" width="200" src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif">
 
