@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/yIomjPheQvvbiF9v7A/giphy.gif" width=300 align='left'>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBkOXU4NWdibnVnbHpocGpiMHF5czJxcXhoM29teTVoZmQ5d2JsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RkbsjqhLw39hkv6TK4/giphy.webp" width=400 >
+
+<br><br>
 
 
 
