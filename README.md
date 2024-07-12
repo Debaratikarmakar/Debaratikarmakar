@@ -1,6 +1,5 @@
 <img src="https://media.giphy.com/media/yIomjPheQvvbiF9v7A/giphy.gif" width=300 align='left'>
-<br><br><br>
-<img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width=300 align="right">
+
 
 
 <h1 align="center">Hi 👋, I'm Debarati Karmakar</h1>
