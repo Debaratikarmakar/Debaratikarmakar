@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Debarati Karmakar</h1>
-<h3 align="center">A passionate frontend developer & UI/UX designer from India</h3>
+<h3 align="center">A passionate Full-stack developer & UI/UX designer from India</h3>
 
 
 
